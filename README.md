@@ -1,0 +1,2 @@
+# LINQSample
+LINQのサンプル
